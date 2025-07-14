@@ -20,7 +20,7 @@
 ## 🌐 Languages
 
 - Ukrainian — Native  
-- English — Intermediate
+- English — Upper-Intermediate
 
 <!--
 **Kateryna-mar/Kateryna-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
