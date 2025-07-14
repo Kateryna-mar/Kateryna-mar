@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-🎓 Studying Computer Science (Bachelor's)
-📊 Interested in data analytics and data-driven projects
-💡 Passionate about deriving insights from data
+- 🎓 Studying Computer Science (Bachelor's)
+- 📊 Interested in data analytics and data-driven projects
+- 💡 Passionate about deriving insights from data
 
 📬 Contacts
 
 - **Email:** katiamarushchak@gmail.com  
-- **LinkedIn:** (https://www.linkedin.com/in/kateryna-marushchak)
+- [LinkedIn](https://www.linkedin.com/in/kateryna-marushchak)
 
 ## 🛠️ Skills & Technologies
 
