@@ -7,7 +7,7 @@
 📬 Contacts
 
 - **Email:** katiamarushchak@gmail.com  
-- **LinkedIn:** ((https://www.linkedin.com/in/kateryna-marushchak)
+- **LinkedIn:** (https://www.linkedin.com/in/kateryna-marushchak)
 
 ## 🛠️ Skills & Technologies
 
