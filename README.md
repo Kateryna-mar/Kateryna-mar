@@ -4,7 +4,7 @@
 - 📊 Interested in data analytics and data-driven projects
 - 💡 Passionate about deriving insights from data
 
-📬 Contacts
+## 📬 Contacts
 
 - **Email:** katiamarushchak@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/kateryna-marushchak)
